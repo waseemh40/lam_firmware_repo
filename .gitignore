@@ -1,2 +1,15 @@
-/GNU ARM v4.9.3 - Debug/
-/GNU ARM v4.9.3 - Release/
+
+
+*.exe
+*.hex
+*.elf
+*.s37
+*.bin
+*.o
+*.d
+*.cproject
+*.mk
+*.map
+*.ld
+*.axf
+
